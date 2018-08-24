@@ -10,4 +10,9 @@ Vuelve a comer
 Vuelve a dormir
 Vueve a jugar
 
+Hoy mi perro
+hizo cosas nuevas
+se escapo de casa
+y volvio es genial
+
 FIN
